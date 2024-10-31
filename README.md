@@ -4,7 +4,7 @@ This repository contains the source code for a responsive pricing table layout c
 
 ## Live Website
 
-You can view the live site here: [junaid-mohammad.github.io/Flexbox-Pricing-Table](https://junaid-mohammad.github.io/Flexbox-Pricing-Table/)
+You can view the live site here: [Flexbox Pricing Table](https://junaid-mohammad.github.io/Flexbox-Pricing-Table/)
 
 ## Features
 
